@@ -1,5 +1,4 @@
-# Snack Expo (MERN)
-
-FrontEnd :
-https://snack.expo.dev/@alriawi/6?platform=web
+Nama : Riski Rahmadan
+kelas: 5A
+Npm : 2310567 
  
